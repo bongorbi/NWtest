@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="firstTestSuite"
+    errors="1" failures="0" hostname="" id="" package="firstTestSuite" skipped="0"
+    tests="1" time="22.64" timestamp="">
+  
+    <testcase name="weeklySchedule" classname="firstTestSuite" time="22.64" assertions="3">
+
+    
+
+    
+
+    
+      <error message="An error occurred while running .click() command on &lt;div#left_content &gt; table &gt; tbody &gt; tr:nth-child(7) &gt; td:nth-child(2) &gt; p:nth-child(2) &gt; a:nth-child(2)&gt;: undefined; undefined" type="error">NoSuchElementError: An error occurred while running .click() command on &lt;div#left_content &gt; table &gt; tbody &gt; tr:nth-child(7) &gt; td:nth-child(2) &gt; p:nth-child(2) &gt; a:nth-child(2)&gt;: undefined; undefined
+    at ClickElement.noSuchElementError (/home/dandonov/Projects/NightwatchTest/node_modules/nightwatch/lib/element/command.js:363:12)
+    at Object.errorHandler (/home/dandonov/Projects/NightwatchTest/node_modules/nightwatch/lib/api/element-commands/_baseElementCommand.js:42:30)
+    at PeriodicPromise.runAction (/home/dandonov/Projects/NightwatchTest/node_modules/nightwatch/lib/utils/periodic-promise.js:60:29)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)</error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  NoSuchElementError: An error occurred while running .click() command on &lt;div#left_content &gt; table &gt; tbody &gt; tr:nth-child(7) &gt; td:nth-child(2) &gt; p:nth-child(2) &gt; a:nth-child(2)&gt;: undefined; undefined
+   {&#34;sessionId&#34;:&#34;49c09535314c4a411718c8b0236641a0&#34;,&#34;status&#34;:0,&#34;value&#34;:[]}[0m
+[0;90m       at processTicksAndRejections (internal/process/task_queues.js:97:5)[0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

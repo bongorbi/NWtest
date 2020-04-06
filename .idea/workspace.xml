@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6dc20a3-608e-4b16-8497-d67b7b18f1af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NightwatchTest" />
+  </component>
+  <component name="ProjectId" id="1YZaQfBVejEhhGhih0cMmXjUc1M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager" selected="npm.test:default">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test:default" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:default" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test:default" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6dc20a3-608e-4b16-8497-d67b7b18f1af" name="Default Changelist" comment="" />
+      <created>1583152717934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583152717934</updated>
+      <workItem from="1583152719318" duration="21457000" />
+      <workItem from="1585683520626" duration="6413000" />
+      <workItem from="1585907330078" duration="8745000" />
+      <workItem from="1585924683723" duration="9372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="267" width="424" height="479" key="FileChooserDialogImpl" timestamp="1585689932892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2663" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583496423583" />
+    <state x="743" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585689932892" />
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1585924655607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1268" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583322777966" />
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585924655607" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1585924655607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1268" height="216" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583322777966" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585924655607" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1585924655606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1268" height="216" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583322777966" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585924655606" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1585924655607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1268" height="216" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583322777966" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585924655607" />
+    <state x="223" y="35" width="1598" height="730" key="SettingsEditor" timestamp="1583160141849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="223" y="35" width="1598" height="730" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583160141849" />
+    <state x="624" y="238" key="run.anything.popup" timestamp="1585920963917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="238" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585920963917" />
+  </component>
+</project>
