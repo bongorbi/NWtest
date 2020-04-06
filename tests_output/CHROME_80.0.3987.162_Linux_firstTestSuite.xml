@@ -5,16 +5,16 @@
 
   <testsuite name="firstTestSuite"
     errors="0" failures="0" hostname="" id="" package="firstTestSuite" skipped="0"
-    tests="3" time="15.71" timestamp="">
+    tests="3" time="15.02" timestamp="">
   
-    <testcase name="step one:Searching and selecting Unibit.bg" classname="firstTestSuite" time="4.659" assertions="2">
+    <testcase name="step one:Searching and selecting Unibit.bg" classname="firstTestSuite" time="4.190" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="step two:Finding weekly schedules" classname="firstTestSuite" time="0.9080" assertions="3">
+    <testcase name="step two:Finding weekly schedules" classname="firstTestSuite" time="0.7140" assertions="3">
 
     
 
@@ -23,7 +23,7 @@
     
     </testcase>
   
-    <testcase name="step three:Selecting weekly schedule" classname="firstTestSuite" time="10.14" assertions="1">
+    <testcase name="step three:Selecting weekly schedule and display it" classname="firstTestSuite" time="10.12" assertions="1">
 
     
     </testcase>

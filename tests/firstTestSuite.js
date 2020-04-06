@@ -54,4 +54,7 @@ module.exports = {
       .click(program(7, 1))
       .pause(10000);
   }
+  //тестът се стартира, като въведете в терминала/конзолата "npm run test:default", което
+  //ще стартира теста в Chrome, ако въведете "npm run test:firefox", ще го изпълни в мозила
+  //тези настройки са във файла nightwatch.conf.js и package.json
 };
